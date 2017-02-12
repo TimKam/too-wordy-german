@@ -1,8 +1,8 @@
 {
   "name": "too-wordy-german",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "detect words of unnecessary complexity",
-  "main": "matcher.js",
+  "main": "too-wordy.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
