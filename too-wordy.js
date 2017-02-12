@@ -146,7 +146,7 @@ var wordyWords = [
   'vorantreiben',
   'Vorteil daraus ziehen',
   'vorteilhaft',
-  'was ich sagen wollte'
+  'was ich sagen wollte',
   'was mich anbelangt',
   'was mich betrifft',
   'wie auch immer',
